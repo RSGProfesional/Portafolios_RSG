@@ -1,11 +1,11 @@
 :root {
-    --primario: #432ff8;
-    --primarioOcusuro: #010124;
-    --secundario: #140786;
+    --primario: #4e4e4e;
+    --primarioOcusuro: #404041;
+    --secundario: #080808;
     --secundarioOscuro: rgb(233,287,2);
     --blanco: #fff;
     --negro: #000;
-    --fuentePrincipal: "Staatliches", cursive;
+    --fuentePrincipal: "Arial", cursive;
 }
 
 html {
@@ -206,7 +206,9 @@ h3 {
 
 .bloque__titulo {
     margin: 0;
+
 }
+
 
 /** Página del producto **/
 @media (min-width: 768px) {
